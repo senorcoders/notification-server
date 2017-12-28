@@ -3,6 +3,9 @@ Created by Kharron Reid of SenorCoders
 Dec 2017
 
 
+Install:
+npm install
+
 Receiving Tweets
 receive tweets from a subscription server via post
 /getweet
